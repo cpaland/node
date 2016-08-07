@@ -1,0 +1,125 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(http://fonts.gstatic.com/s/roboto/v15/CWB0XYA8bzo0kSThX0UTuA.woff2) format('woff2'), url(http://fonts.gstatic.com/s/roboto/v15/2UX7WLTfW3W8TclTUvlFyQ.woff) format('woff');
+}
+
+body {
+  font-family:Roboto;
+  line-height:1.3em;
+  padding:0;
+  margin:0;
+  background:#F9F9F9;
+}
+body, .brog {
+  font-size:13px;
+}
+.tgx {
+  font-size:14px;
+  text-transform:uppercase;
+  padding:0 0 5px 0;
+}
+.container {
+  max-width:1140px;
+}
+.navbar {
+  height:60px;
+  padding:5px 0 0 0;
+  box-shadow: 0 0 4px rgba(0,0,0,.5);
+  border-bottom:none;
+}
+.ov {
+  padding:60px 0 0 0;
+}
+.brog {
+  margin:8px 0 0 20px;
+}
+.jos {
+  margin-left:-10px;
+}
+.ft {
+  font-size:12px;
+  margin:15px 0 0 0;
+  background:#F2F2F2;
+  padding:10px 0;
+  color:#666;
+}
+.ft p {margin:0 0 10px 0;}
+#navbar-search {width:100%;float:left;display:block;}
+.navbar {
+  background:#fff;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+  background:none;
+}
+.navbar-nav > li > a > .btn {
+  margin:-7px 0 0 0;
+}
+.navbar .in, .navbar .collapsing {
+  background:#fff;
+}
+.nav > li > a:focus, .nav > li > a:hover {
+  background:none;
+}
+.btn-info2 {
+  background:#FF5A5F;
+  border:#FF5A5F;
+  color:#fff;
+}
+.btn-info2:hover {
+  color:#fff;
+  background:#E0595C;
+  border:#E0595C;
+}
+.ngads {
+  width:100%;
+  float:left;
+  background:#F2F2F2;
+  padding:15px 0 10px 15px;
+  text-align:center;
+  margin:0 0 15px 0;
+  border-bottom:solid 1px #ececec;
+}
+.bl-sd {
+  background:#fff;
+  margin:0;
+  padding:15px;
+}
+.pgx {
+  margin:0 0 15px 0;
+  line-height:1.4em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
